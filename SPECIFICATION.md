@@ -331,9 +331,19 @@ git commit -m "Initial Kudos System specification"
 git remote add origin <repository-url>
 git push -u origin main
 ```
-
 ---
 
+# Repository Link
+
+GitHub Repository:
+
+```txt
+https://github.com/vishnu-2007-codeyy/datacom-kudos-system
+```
+git add SPECIFICATION.md
+git commit -m "Added repository link to specification"
+git push
+---
 # Conclusion
 
 The Kudos System provides a scalable and moderated employee recognition feature for the internal company portal.
